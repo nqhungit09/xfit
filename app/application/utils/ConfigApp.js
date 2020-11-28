@@ -8,7 +8,7 @@ const isStandAloneApp = Constants.appOwnership == "standalone";
 const ConfigApp = {
 
     // backend url
-    URL: "YOUR_BACKEND_URL",
+    URL: "http://app.xfit.vn/",
 
     // facebook page url
     FACEBOOK: "https://facebook.com/xfit.vn",
